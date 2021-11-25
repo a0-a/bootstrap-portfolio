@@ -1,0 +1,25 @@
+body {
+    background-image: url("img/Adamu.jpg");
+    background-color: #cccccc;
+   }
+
+.card{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+
+.col-md-8 h5 {
+    font-size: 50px;
+    color: aqua;
+}
+
+.col-md-8 p{
+    font-size: 20px;
+    color: dodgerblue;
+    
+}
+
+.col-md-8 ul li{
+    list-style: none;
+}
